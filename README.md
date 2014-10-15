@@ -3,6 +3,9 @@ overflowstats
 
 MapReduce jobs for trend calculation on Stackoverflow data
 
+Data dump has been taken from Stack Exchange Network.
+
+https://archive.org/details/stackexchange
 
 map reduce jobs to calculate trends of tags on stackoverflow questions. This was about 30GB of data. I used Amazon's Elastic Map Reduce(EMR) to run the jobs and calculated two interesting trends. 
 
