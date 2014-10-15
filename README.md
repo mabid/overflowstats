@@ -15,3 +15,5 @@ map reduce jobs to calculate trends of tags on stackoverflow questions. This was
 2) A trend for average time to an accepted answer after a question was asked for each tag.
 
 A demo can be seen at http://overflowstats.herokuapp.com
+
+Code for the front-end app is at http://github.com/mabid/overflow_front
